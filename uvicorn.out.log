@@ -1,0 +1,6 @@
+[startup-warning] MONGO_URI not set, defaulting to mongodb://localhost:27017
+[startup-warning] ensure_admin_user skipped: MongoDB is unreachable for MONGO_URI='mongodb://localhost:27017'. If using localhost, ensure MongoDB service is running. If using Atlas, verify URI, credentials, and Network Access allowlist.
+INFO:     127.0.0.1:49788 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49788 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49790 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49790 - "GET / HTTP/1.1" 200 OK
