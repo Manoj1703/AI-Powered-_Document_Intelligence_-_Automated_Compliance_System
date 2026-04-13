@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pymongo
+dnspython
+python-dotenv
+requests
+openai
+httpx
+pandas
+pdfplumber
+python-docx
+pypdf
+pdfminer.six
+python-multipart
+openpyxl
+xlrd
